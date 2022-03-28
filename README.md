@@ -1,12 +1,3 @@
-<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
-
---------------------------------------------------------------------------------
-
-
-[![Build Status](https://travis-ci.com/aladdinpersson/Machine-Learning-Collection.svg?branch=master)](https://travis-ci.com/aladdinpersson/Machine-Learning-Collection) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[logo]: https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/others/logo/youtube_logo.png
-
 # Machine Learning Collection
 In this repository you will find tutorials and projects related to Machine Learning. I try to make the code as clear as possible, and the goal is be to used as a learning resource and a way to lookup problems to solve specific problems. For most I have also done video explanations on YouTube if you want a walkthrough for the code. If you got any questions or suggestions for future videos I prefer if you ask it on [YouTube](https://www.youtube.com/c/AladdinPersson). This repository is contribution friendly, so if you feel you want to add something then I'd happily merge a PR :smiley:
 
@@ -18,9 +9,6 @@ In this repository you will find tutorials and projects related to Machine Learn
     - [Object Detection](#Object-Detection)
 	- [Generative Adversarial Networks](#Generative-Adversarial-Networks)
 	- [Architectures](#architectures)
-- [TensorFlow Tutorials](#tensorflow-tutorials)
-	- [Beginner Tutorials](#beginner-tutorials)
-	- [Architectures](#CNN-Architectures)
 
 ## Machine Learning
 * [![Youtube Link][logo]](https://youtu.be/pCCUnoes1Po) &nbsp; [Linear Regression](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/algorithms/linearregression/linear_regression_gradient_descent.py) **- With Gradient Descent** :white_check_mark: 
@@ -97,37 +85,3 @@ If you have any specific video suggestion please make a comment on YouTube :)
 * [![Youtube Link][logo]](https://youtu.be/uQc4Fs7yx5I) &nbsp; [Inception v1](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Pytorch/CNN_architectures/pytorch_inceptionet.py) **- CNN architecture**
 * [![Youtube Link][logo]](https://youtu.be/DkNIBBBvcPs) &nbsp; [ResNet](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/Pytorch/CNN_architectures/pytorch_resnet.py) **- CNN architecture**
 * [![Youtube Link][logo]](https://youtu.be/fR_0o25kigM) &nbsp; [EfficientNet](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/CNN_architectures/pytorch_efficientnet.py) **- CNN architecture**
- 
-
-## TensorFlow Tutorials
-If you have any specific video suggestion please make a comment on YouTube :)
-
-### Beginner Tutorials
-* [![Youtube Link][logo]](https://youtu.be/5Ym-dOS9ssA) &nbsp; Tutorial 1 - Installation, Video Only
-* [![Youtube Link][logo]](https://youtu.be/HPjBY1H-U4U) &nbsp; [Tutorial 2 - Tensor Basics](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial2-tensorbasics.py)
-* [![Youtube Link][logo]](https://youtu.be/pAhPiF3yiXI) &nbsp; [Tutorial 3 - Neural Network](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial3-neuralnetwork.py)
-* [![Youtube Link][logo]](https://youtu.be/WAciKiDP2bo) &nbsp; [Tutorial 4 - Convolutional Neural Network](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial4-convnet.py)
-* [![Youtube Link][logo]](https://youtu.be/kJSUq1PLmWg) &nbsp; [Tutorial 5 - Regularization](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial5-regularization.py)
-* [![Youtube Link][logo]](https://youtu.be/WAciKiDP2bo) &nbsp; [Tutorial 6 - RNN, GRU, LSTM](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial6-rnn-gru-lstm.py)
-* [![Youtube Link][logo]](https://youtu.be/kJSUq1PLmWg) &nbsp; [Tutorial 7 - Functional API](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial7-indepth-functional.py)
-* [![Youtube Link][logo]](https://youtu.be/WcZ_1IAH_nM) &nbsp; [Tutorial 8 - Keras Subclassing](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial8_keras_subclassing.py)
-* [![Youtube Link][logo]](https://youtu.be/cKMJDkWSDnY) &nbsp; [Tutorial 9 - Custom Layers](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial9-custom-layers.py)
-* [![Youtube Link][logo]](https://youtu.be/idus3KO6Wic) &nbsp; [Tutorial 10 - Saving and Loading Models](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial10-save-model.py)
-* [![Youtube Link][logo]](https://youtu.be/WJZoywOG1cs) &nbsp; [Tutorial 11 - Transfer Learning](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial11-transfer-learning.py)
-* [![Youtube Link][logo]](https://youtu.be/YrMy-BAqk8k) &nbsp; [Tutorial 12 - TensorFlow Datasets](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial12-tensorflowdatasets.py)
-* [![Youtube Link][logo]](https://youtu.be/8wwfVV7ixyY) &nbsp; [Tutorial 13 - Data Augmentation](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial13-data-augmentation.py)
-* [![Youtube Link][logo]](https://youtu.be/WUzLJZCKNu4) &nbsp; [Tutorial 14 - Callbacks](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial14-callbacks.py)
-* [![Youtube Link][logo]](https://youtu.be/S6tLSI8bjGs) &nbsp; [Tutorial 15 - Custom model.fit](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial15-customizing-modelfit.py)
-* [![Youtube Link][logo]](https://youtu.be/_u7AVsxANes) &nbsp; [Tutorial 16 - Custom Loops](https://github.com/AladdinPerzon/Machine-Learning-Collection/blob/master/ML/TensorFlow/Basics/tutorial16-customloops.py)
-* [![Youtube Link][logo]](https://youtu.be/k7KfYXXrOj0) &nbsp; [Tutorial 17 - TensorBoard](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics/tutorial17-tensorboard)
-* [![Youtube Link][logo]](https://youtu.be/q7ZuZ8ZOErE) &nbsp; [Tutorial 18 - Custom Dataset Images](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics/tutorial18-customdata-images)
-* [![Youtube Link][logo]](https://youtu.be/NoKvCREx36Q) &nbsp; [Tutorial 19 - Custom Dataset Text](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics/tutorial19-customdata-text)
-* [![Youtube Link][logo]](https://youtu.be/ea5Z1smiR3U) &nbsp; [Tutorial 20 - Classifying Skin Cancer](https://github.com/AladdinPerzon/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics/tutorial20-classify-cancer-beginner-project-example) **- Beginner Project Example**
-
-### CNN Architectures
-* [LeNet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/LeNet5)
-* [AlexNet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/AlexNet)
-* [VGG](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/VGGNet)
-* [GoogLeNet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/GoogLeNet)
-* [ResNet](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/CNN_architectures/ResNet)
- 
